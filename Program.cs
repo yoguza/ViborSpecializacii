@@ -8,7 +8,7 @@ string[] array2 = {"1234", "1567", "-2", "computer science"};
 string[] array3 = {"Russia", "Denmark", "Kazan"};
 
 
-int MAXLENGTH = 3;
+int MAXLENGTH = 3; //для возможности менять длину символов элемента
 		
 string[] ShorArray1(string[] array)
 {
