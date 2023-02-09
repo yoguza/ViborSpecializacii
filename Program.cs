@@ -4,6 +4,9 @@
 
 
 string[] array1 = {"Hello", "2", "world", ":-)"};
+string[] array2 = {"1234", "1567", "-2", "computer science"};
+string[] array3 = {"Russia", "Denmark", "Kazan"};
+
 
 int MAXLENGTH = 3;
 		
@@ -50,3 +53,5 @@ void PrintTask(string[] array)
 }
 		
 PrintTask(array1);
+PrintTask(array2);
+PrintTask(array3);
