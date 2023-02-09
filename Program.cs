@@ -4,6 +4,8 @@
 
 
 string[] array1 = {"Hello", "2", "world", ":-)"};
+
+int MAXLENGTH = 3;
 		
 string[] ShorArray1(string[] array)
 {
@@ -13,7 +15,7 @@ string[] ShorArray1(string[] array)
 
 for (int i = 0; i < length; i++)
 {
-    if(array[i].Length <= 3)
+    if(array[i].Length <= MAXLENGTH)
     {
         result[count] = array[i];
         count++;
@@ -42,7 +44,7 @@ void PrintTask(string[] array)
     Console.WriteLine("Дан массив:");
     PrintArray(array);
     string[] shortArray = ShorArray1(array);
-    Console.WriteLine($"Полученный массив из элементов с символами <= 3:");
+    Console.WriteLine($"Полученный массив из элементов с символами <= {MAXLENGTH}:");
     PrintArray(shortArray);
     Console.WriteLine();
 }
