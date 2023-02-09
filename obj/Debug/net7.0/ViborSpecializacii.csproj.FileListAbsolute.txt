@@ -1,0 +1,15 @@
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.csproj.AssemblyReference.cache
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.AssemblyInfoInputs.cache
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.AssemblyInfo.cs
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.csproj.CoreCompileInputs.cache
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/bin/Debug/net7.0/ViborSpecializacii
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/bin/Debug/net7.0/ViborSpecializacii.deps.json
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/bin/Debug/net7.0/ViborSpecializacii.runtimeconfig.json
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/bin/Debug/net7.0/ViborSpecializacii.dll
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/bin/Debug/net7.0/ViborSpecializacii.pdb
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.dll
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/refint/ViborSpecializacii.dll
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.pdb
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ViborSpecializacii.genruntimeconfig.cache
+/Users/Dmitriy/Desktop/ViborSpecii/ViborSpecializacii/obj/Debug/net7.0/ref/ViborSpecializacii.dll
